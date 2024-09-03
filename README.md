@@ -3,6 +3,7 @@
 This project is a simple API built using FastAPI that allows you to manage student records. It demonstrates basic CRUD (Create, Read, Update, Delete) operations with students' data using FastAPI’s powerful and modern features.
 
 <h3>Features</h3>
+
 <b>Welcome Endpoint:</b> Greets users with a simple message.
 
 <b>Retrieve Student Info:</b> Get student details by their ID or name.

@@ -6,8 +6,11 @@ This project is a simple API built using FastAPI that allows you to manage stude
 <b>Welcome Endpoint:</b> Greets users with a simple message.
 
 <b>Retrieve Student Info:</b> Get student details by their ID or name.
+
 <b>Create Student:</b> Add a new student to the database.
+
 <b>Update Student:</b> Update existing student information.
+
 <b>Delete Student:</b> Remove a student record from the database.
 
 <h3>Project Structure</h3>
@@ -25,31 +28,32 @@ git clone https://github.com/yourusername/your-repository.git
 
 <b>Navigate to the project directory:</b>
 cd your-repository
-Create and activate a virtual environment:
 
-bash
-Copy code
+<b>Create and activate a virtual environment:</b>
+
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
-Install dependencies:
 
-bash
-Copy code
+<b>Install dependencies:</b>
+
 pip install fastapi uvicorn pydantic
-Run the application:
 
-bash
-Copy code
+<b>Run the application:</b>
+
 uvicorn main:app --reload
-Access the API:
+
+<b>Access the API:</b>
 
 Go to http://127.0.0.1:8000 to see the welcome message.
 Explore interactive API docs at http://127.0.0.1:8000/docs.
-Technologies Used
-FastAPI: Modern, fast web framework for building APIs.
-Pydantic: Data validation and settings management using Python type annotations.
-Contributing
+
+<h3>Technologies Used</h3>
+<b>FastAPI:</b> Modern, fast web framework for building APIs.
+
+<b>Pydantic:</b> Data validation and settings management using Python type annotations.
+
+<h3>Contributing</h3>
 Feel free to submit issues or pull requests if you have ideas to improve the project.
 
-License
+<h3>License</h3>
 This project is open-source and available under the MIT License.

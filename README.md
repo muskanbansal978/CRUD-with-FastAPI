@@ -4,6 +4,7 @@ This project is a simple API built using FastAPI that allows you to manage stude
 
 <h3>Features</h3>
 <b>Welcome Endpoint:</b> Greets users with a simple message.
+
 <b>Retrieve Student Info:</b> Get student details by their ID or name.
 <b>Create Student:</b> Add a new student to the database.
 <b>Update Student:</b> Update existing student information.

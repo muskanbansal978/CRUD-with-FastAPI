@@ -25,9 +25,11 @@ index: A simple endpoint that welcomes users.
 <h3>How to Run the Project</h3>
 
 <b>Clone the repository:</b>
+
 git clone https://github.com/yourusername/your-repository.git
 
 <b>Navigate to the project directory:</b>
+
 cd your-repository
 
 <b>Create and activate a virtual environment:</b>
